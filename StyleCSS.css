@@ -2,5 +2,37 @@
 /* CSS Document */
 
 body {
-	background-color: red;
+	background-image: url("Insert_png._name_here")
 }
+
+*{
+	color: red;
+
+}
+
+.red {
+	color: blue;
+	border-width: 10px;
+	border-style: dashed;
+	border-color: black;
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	font-size: 18pt;
+	text-alignment: center;
+	display: inline;
+	height: 10px;
+	
+}
+
+
+.box {
+	background: black;
+	height: 100px;
+	width: 100px;
+ 	margin: 250px;
+	padding: 100px;
+	top: 0px;
+	right: 300;
+	position: relative;
+	
+}
+
