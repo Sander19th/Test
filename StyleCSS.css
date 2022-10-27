@@ -15,7 +15,7 @@ body {
 	border-width: 10px;
 	border-style: dashed;
 	border-color: black;
-	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	font-family:
 	font-size: 18pt;
 	text-alignment: center;
 	display: inline;
@@ -38,7 +38,6 @@ body {
 }
 
 h1, p, .red {
-	<link rel="stylesheet" href="https://use.typekit.net/igz0abt.css">
-	font-family: 
+	font-family:
 		
 }
